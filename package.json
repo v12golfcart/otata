@@ -1,0 +1,20 @@
+{
+  "name": "otata",
+  "version": "1.0.0",
+  "description": "Desktop app to help people accomplish one important thing at a time and get the most out of their day",
+  "homepage": "https://github.com/v12golfcart/otata#readme",
+  "bugs": {
+    "url": "https://github.com/v12golfcart/otata/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v12golfcart/otata.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
